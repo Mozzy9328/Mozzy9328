@@ -2,6 +2,7 @@
 # **👋 Hello! I'm Mustafa**
 
 <br>
+<div style: "align-content: center;">
 <a href="https://www.instagram.com/travelsofmozzy/">
   <img align="left" alt="Mustafa's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -14,6 +15,7 @@
 <a href="https://www.linkedin.com/in/msalesforce/">
   <img align="left" alt="Mustafa's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+</div>
 </br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
