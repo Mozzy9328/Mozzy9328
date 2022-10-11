@@ -1,19 +1,23 @@
 
-
-👋 Hello! I'm Mustafa
+# **👋 Hello! I'm Mustafa**
  
+<a href="https://www.instagram.com/travelsofmozzy/">
+  <img align="left" alt="Mustafa's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.gg/travelsofmozzy">
+  <img align="left" alt="Mustafa's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/travelsofmozzy">
+  <img align="left" alt="Mustafa Ahmed | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/msalesforce/">
+  <img align="left" alt="Mustafa's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-<!--
-**Mozzy9328/Mozzy9328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at ACH as a Salesforce Developer.
+- 🌱 I’m currently learning more on APEX and better Salesforce Practices
+- 💬 Ask me about Salesforce, DocuSign and Conga
+- ⚡ Fun fact: Big Fan of the Salesforce and what it can do for businesses.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
