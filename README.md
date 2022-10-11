@@ -2,19 +2,19 @@
 # **👋 Hello! I'm Mustafa**
 
 <br>
-<div style: "align-content: center;">
-<a href="https://www.instagram.com/travelsofmozzy/">
-  <img align="left" alt="Mustafa's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/travelsofmozzy">
-  <img align="left" alt="Mustafa's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/travelsofmozzy">
-  <img align="left" alt="Mustafa Ahmed | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/msalesforce/">
-  <img align="left" alt="Mustafa's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<div align= "right">
+  <a href="https://www.instagram.com/travelsofmozzy/">
+   <img align="left" alt="Mustafa's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  </a>
+  <a href="https://discord.gg/travelsofmozzy">
+   <img align="left" alt="Mustafa's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  </a>
+  <a href="https://twitter.com/travelsofmozzy">
+    <img align="left" alt="Mustafa Ahmed | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/msalesforce/">
+    <img align="left" alt="Mustafa's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
 </div>
 </br>
 
@@ -27,3 +27,4 @@
 
 
 
+You can find my portfolio right here: 
