@@ -27,4 +27,4 @@
 
 
 
-You can find my portfolio right here: 
+You can find my portfolio right here: https://mustafas-portfolio.netlify.app/
